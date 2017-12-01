@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_fe7a9b739b208da0797b53a48c259670027467e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_7b9cd136013f4dc1a73df808fc25caa4551fbff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.4_78307f92bb4989f7056290775b6cdb4e905ef8f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_261fd925fe0ce6eb20ce80d135468100b9ebb54d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_08bcca287bb4f8b78ec3fac8b4f924d9c96c3339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.4_74e4e2665d5ddcc5723cb32abe7dff3d60c2b878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.4_3259c6e68e8df8b7bc42e966c6ce2eb1f2d5d564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_71c3474d27975eedfaea10874eb11a0297779d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_3f33eaf45c247e7cd90429c94ceee213dfc3ea31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_531852ceff78e50bad4b2d0ab9870d77aa39607c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_836985647e9c2e552911c17a6ff4ae63d8366747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_1ed510a9e655807c7416bd995d4baa132a4c776c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_29bf617d30df7a2c7dae3cc21e0f9d6bcc54644a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.48.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_adcfee9c8c563a755541b45b3b2e2c30f5673717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_bd91ff662b699b17684d1d0ee1356f3b2000c8ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_da36a3d61beed50acef5fe05758fe0a3f89829c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_a4f912bb8428dd823cbf96869af50d374cf6ce71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_bbe4d175bfbb9bb0a82e7fed1e5f8f1af54d1c12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_faf5a84e3f7c983aaf6d2bb5faab6c71b7cbff70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_d8eb818b3e2a5421bbf02aca47ac0653542471ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_147812d0fe2dbb8de4244719cf2df315dd45f07f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_954962e939763a3812797b512ef6ac0934b83ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\travel1\react-native-maps\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5ab151698a7278176c9e6a60b6e18dbb4bebdf9f">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\travel1-react-native-maps-unspecified_c8c84440e83c468f8d2904d1ad8982b592484b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.48.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.48.4_e17db710533d09bf14d42b7b525ba6bc05f8fd3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\travel1\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.4_aa53ae3435a38d5624b56120d589b24824a424a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Khalid\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Khalid\travel1\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_792eda22c9706becf2915001d23fa4450f2d3957.jar" />
+    </item>
+
+</items>
